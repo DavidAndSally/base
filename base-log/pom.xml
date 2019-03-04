@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>base</artifactId>
+        <groupId>com.jd.pop</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>base-log</artifactId>
+    <properties>
+        <org.slf4j-version>1.7.25</org.slf4j-version>
+        <logback-version>1.2.3</logback-version>
+        <log4j-version>1.2.17</log4j-version>
+        <logjdk-version>1.7.25</logjdk-version>
+        <logcom-version>1.1.3</logcom-version>
+    </properties>
+
+    <dependencies>
+        <!-- =========== slf4j log start ===========  -->
+        <!--<dependency>-->
+            <!--<groupId>org.projectlombok</groupId>-->
+            <!--<artifactId>lombok</artifactId>-->
+            <!--<version>1.18.2</version>-->
+        <!--</dependency>-->
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${org.slf4j-version}</version>
+        </dependency>
+
+        <!--logback-->
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-core</artifactId>
+            <version>${logback-version}</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>${logback-version}</version>
+        </dependency>
+
+        <!--log4j-->
+        <!--<dependency>-->
+            <!--<groupId>log4j</groupId>-->
+            <!--<artifactId>log4j</artifactId>-->
+            <!--<version>${log4j-version}</version>-->
+        <!--</dependency>-->
+        <!--log4j 适配器-->
+        <!--<dependency>-->
+            <!--<artifactId>slf4j-log4j12</artifactId>-->
+            <!--<groupId>org.slf4j</groupId>-->
+            <!--<version>${org.slf4j-version}</version>-->
+        <!--</dependency>-->
+
+        <!--jdk 适配器-->
+        <!--<dependency>-->
+            <!--<groupId>org.slf4j</groupId>-->
+            <!--<artifactId>slf4j-jdk14</artifactId>-->
+            <!--<version>${logjdk-version}</version>-->
+        <!--</dependency>-->
+
+        <!-- =========== slf4j log end ============= -->
+
+        <!-- 桥接器 -->
+        <!--<dependency>-->
+            <!--<groupId>org.slf4j</groupId>-->
+            <!--<artifactId>jcl-over-slf4j</artifactId>-->
+            <!--<version>${org.slf4j-version}</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>org.slf4j</groupId>-->
+            <!--<artifactId>jul-to-slf4j</artifactId>-->
+            <!--<version>${org.slf4j-version}</version>-->
+        <!--</dependency>-->
+
+        <!--<dependency>-->
+            <!--<groupId>org.slf4j</groupId>-->
+            <!--<artifactId>log4j-over-slf4j</artifactId>-->
+            <!--<version>${org.slf4j-version}</version>-->
+        <!--</dependency>-->
+
+        <!--commons-log-->
+        <!--<dependency>-->
+            <!--<groupId>commons-logging</groupId>-->
+            <!--<artifactId>commons-logging</artifactId>-->
+            <!--<version>${logcom-version}</version>-->
+        <!--</dependency>-->
+    </dependencies>
+
+</project>
