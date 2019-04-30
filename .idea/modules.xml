@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/base.iml" filepath="$PROJECT_DIR$/base.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-annotation/base-annotation.iml" filepath="$PROJECT_DIR$/base-annotation/base-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-database-demo/base-database-demo.iml" filepath="$PROJECT_DIR$/base-database-demo/base-database-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-dev/base-dev.iml" filepath="$PROJECT_DIR$/base-dev/base-dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-log/base-log.iml" filepath="$PROJECT_DIR$/base-log/base-log.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-sort/base-sort.iml" filepath="$PROJECT_DIR$/base-sort/base-sort.iml" />
