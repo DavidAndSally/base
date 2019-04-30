@@ -1,4 +1,4 @@
-### pop基础营销工具集
+### description
 
 - base-log 日志练习模块
     - slf4j logback log4j jdkLog等依赖练习  
