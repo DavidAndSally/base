@@ -1,4 +1,4 @@
-package com.jd.pop.base.gof;
+package com.jd.pop.base.test;
 
 import java.util.ArrayList;
 

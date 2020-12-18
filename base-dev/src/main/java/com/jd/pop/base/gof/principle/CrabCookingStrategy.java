@@ -1,4 +1,4 @@
-package com.jd.pop.base.gof;
+package com.jd.pop.base.gof.principle;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

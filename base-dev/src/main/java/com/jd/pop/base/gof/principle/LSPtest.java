@@ -1,4 +1,4 @@
-package com.jd.pop.base.gof;
+package com.jd.pop.base.gof.principle;
 
 public class LSPtest {
     public static void main(String[] args) {
