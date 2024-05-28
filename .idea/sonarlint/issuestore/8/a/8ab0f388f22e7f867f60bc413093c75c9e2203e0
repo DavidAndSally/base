@@ -1,0 +1,18 @@
+
+Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ƒÄëº¨.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ªº®ÿÿÿÿÿ8ÃÆ©»¨.
+V
+squid:S106K"9Replace this use of System.out or System.err by a logger.(²±óº8×Ðèº¨.
+msquid:S2674,"JCheck the return value of the "skip" call to see how many bytes were read.(½‰÷öýÿÿÿÿ8èÖëº¨.
+_squid:S1126"AReplace this if-then-else statement by a single return statement.(¸²ç”8ÃÆ©»¨.
+fsquid:S2184,"CCast one of the operands of this subtraction operation to a "long".(½‰÷öýÿÿÿÿ8èÖëº¨.
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(Þ—¥½ùÿÿÿÿ8ª„îº¨.
+nsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(ÝÀÔ–üÿÿÿÿ8ëò»¨.
+V
+squid:S106I"9Replace this use of System.out or System.err by a logger.(‘òÎ‰8×Ðèº¨.
+V
+squid:S106R"9Replace this use of System.out or System.err by a logger.(Ê½’8×Ðèº¨.
+psquid:S2095!"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(«ÄÒûÿÿÿÿ8èÖëº¨.
+}squid:S1488N"_Immediately return this expression instead of assigning it to the temporary variable "comment".(¿Óó§8×Ðèº¨.

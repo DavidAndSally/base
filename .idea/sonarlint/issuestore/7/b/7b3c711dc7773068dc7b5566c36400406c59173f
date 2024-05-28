@@ -1,0 +1,19 @@
+
+T
+squid:S106R"9Replace this use of System.out or System.err by a logger.(šóÑıÿÿÿÿ
+N
+squid:S106W"9Replace this use of System.out or System.err by a logger.(Ô· [
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ÒÉ€ûûÿÿÿÿ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(‘¬´®
+Esquid:S19054".Remove this unnecessary cast to "PrintModule".(‰‘³
+Jsquid:S1905,".Remove this unnecessary cast to "InputModule".(„¯İØùÿÿÿÿ
+Jsquid:S19050".Remove this unnecessary cast to "CountModule".(€Ìç¬ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß¹²Ë
+T
+squid:S106C"9Replace this use of System.out or System.err by a logger.(„„ÿçÿÿÿÿÿ
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ï°æÒşÿÿÿÿ
+T
+squid:S106H"9Replace this use of System.out or System.err by a logger.(Š™Øİüÿÿÿÿ

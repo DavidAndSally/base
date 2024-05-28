@@ -1,0 +1,6 @@
+
+wsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "obj".(ôÄ‡úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë£ŸÄøÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ÌÜ“±üÿÿÿÿ

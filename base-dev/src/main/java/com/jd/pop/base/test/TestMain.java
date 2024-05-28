@@ -5,10 +5,7 @@ import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
 
 import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class TestMain {
     public static void intersection(int length1, int length2) {
@@ -30,18 +27,10 @@ public class TestMain {
         System.out.println("Sets.intersection消耗时间(数量：" + length2 + ")：" + (end1 - start1));
     }
 
+
     public static void main(String[] args) {
-        int[] array = {10, 100, 1000, 5000, 10000, 50000, 100000};
-        for (int i = 0; i < array.length; i++) {
-            intersection(array[i], array[i]);
-        }
-        System.out.println("两个结果集不一样--------------------------");
-//        for (int i = 0; i < array.length; i++) {
-//            intersection(array[i], array[i] / 10);
-//        }
-//        System.out.println("两个结果集不一样--------------------------");
-//        for (int i = 0; i < array.length; i++) {
-//            intersection(array[i] / 10, array[i]);
-//        }
+        Long a = new Long(1L);
+        Long b = 1L;
+        System.out.println(a.equals(b));
     }
 }

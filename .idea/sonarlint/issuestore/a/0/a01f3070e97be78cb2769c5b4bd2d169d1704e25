@@ -1,0 +1,13 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ˆûÔ¼ûÿÿÿÿ8ĞÒéóû1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ĞÒéóû1
+G	java:S106&"+Replace this use of System.out by a logger.(ƒâÉ8ÒÒéóû1
+L	java:S106-"+Replace this use of System.out by a logger.(ªÏ°ñûÿÿÿÿ8ÒÒéóû1
+L	java:S1064"+Replace this use of System.out by a logger.(§æ‹Õÿÿÿÿÿ8ÓÒéóû1
+G	java:S106;"+Replace this use of System.out by a logger.(Şéõæ8ÓÒéóû1
+L	java:S106J"+Replace this use of System.out by a logger.(¤û×øÿÿÿÿ8ÔÒéóû1
+L	java:S106P"+Replace this use of System.out by a logger.(½’áîÿÿÿÿÿ8ÕÒéóû1
+L	java:S106Y"+Replace this use of System.out by a logger.(ùäéæÿÿÿÿÿ8ÕÒéóû1
+G	java:S106_"+Replace this use of System.out by a logger.(şıš‰8ÖÒéóû1
+h
+java:S1128"FRemove this unused import 'com.jd.pop.base.gof.factory.simple.Client'.(§Ñ’øÿÿÿÿ8ÖÒéóû1

@@ -1,0 +1,9 @@
+
+S
+java:S1854
+"6Remove this useless assignment to local variable "af".(Χθ—Φ8³Οισϋ1
+L	java:S106"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8µΟισϋ1
+L	java:S106"+Replace this use of System.out by a logger.(Μÿώÿÿÿÿ8¶Οισϋ1
+G	java:S106#"+Replace this use of System.out by a logger.(Ίγ¤ς8·Οισϋ1
+G	java:S106/"+Replace this use of System.out by a logger.(ΜεΣΰ8·Οισϋ1
+L	java:S1067"+Replace this use of System.out by a logger.(‹ΐ„ψÿÿÿÿ8ΈΟισϋ1

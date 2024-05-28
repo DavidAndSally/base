@@ -1,0 +1,15 @@
+
+r	java:S1060"+Replace this use of System.out by a logger.(„£õòùÿÿÿÿ8»ôÄüÁ1J$966501a4-e6fe-488b-915b-167c70453bba
+…
+java:S1854="=Remove this useless assignment to local variable "substring".(¨èŠ³üÿÿÿÿ8»ôÄüÁ1J$9f2af3ef-6919-4d99-9321-1c52548d85de
+~	java:S125:"<This block of commented-out lines of code should be removed.(”œ·Ê8»ôÄüÁ1J$0945ad81-cad5-43c8-b2cd-dea77f1e6782
+v
+java:S1481=".Remove this unused "substring" local variable.(¨èŠ³üÿÿÿÿ8»ôÄüÁ1J$5927c92a-ca24-49ec-a596-29443edb7988
+U
+java:S3878>"8Remove this array creation and simply pass the elements.(äì–8×öÔğû1
+p
+java:S1128"NRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Bool'.(™¦èûÿÿÿÿ8×öÔğû1
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8ØöÔğû1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ØöÔğû1

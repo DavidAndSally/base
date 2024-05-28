@@ -1,0 +1,20 @@
+
+i
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(«Ρ—ώÿÿÿÿÿ8ώΓισϋ1
+
+java:S1488Ψ"aImmediately return this expression instead of assigning it to the temporary variable "signature".(›κΎ8ÿΓισϋ1
+K
+java:S5411Β"(Use a primitive boolean expression here.(­Λ®ψÿÿÿÿ8€Δισϋ1
+v	java:S115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ω°χ¬8§Δισϋ1
+V
+java:S1874U"9Remove this use of "DefaultHttpClient"; it is deprecated.(—΄µ½8¬Δισϋ1
+K	java:S108")Either remove or fill this block of code.(ΠΠΉσϊÿÿÿÿ8³Δισϋ1
+K	java:S108Έ")Either remove or fill this block of code.(ΠΠΉσϊÿÿÿÿ8µΔισϋ1
+h
+java:S3252Α"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(’γΊύÿÿÿÿ8·Δισϋ1
+h
+java:S2147Ϋ"ECombine this catch with the one at line 218, which has the same body.(“³Ϋέόÿÿÿÿ8ΈΔισϋ1
+X
+java:S4719Ψ":Replace Charset.forName() call with StandardCharsets.UTF_8(›κΎ8ΊΔισϋ1
+E	java:S108Ϊ")Either remove or fill this block of code.(ÿÒ„p8ΊΔισϋ1
+K	java:S108Ϋ")Either remove or fill this block of code.(“³Ϋέόÿÿÿÿ8»Δισϋ1

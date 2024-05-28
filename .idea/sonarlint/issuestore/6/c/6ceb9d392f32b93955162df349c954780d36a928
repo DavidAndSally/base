@@ -1,0 +1,25 @@
+
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¹è’‡8É®ÈüÁ1
+`
+java:S1155!">Use isEmpty() to check whether the collection is empty or not.(¡³Œ’ûÿÿÿÿ8É®ÈüÁ1
+R
+java:S2446C"0"notify" may not wake up the appropriate thread.(«ß£òúÿÿÿÿ8É®ÈüÁ1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8É®ÈüÁ1
+R
+java:S2446'"0"notify" may not wake up the appropriate thread.(«ß£òúÿÿÿÿ8É®ÈüÁ1
+c
+java:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8É®ÈüÁ1
+D
+java:S2189;""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8É®ÈüÁ1
+R
+java:S2446,"0"notify" may not wake up the appropriate thread.(«ß£òúÿÿÿÿ8É®ÈüÁ1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¯Û×Ğ8É®ÈüÁ1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(Ùù§Â8É®ÈüÁ1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Û”æ¥úÿÿÿÿ8É®ÈüÁ1
+R
+java:S2446H"0"notify" may not wake up the appropriate thread.(«ß£òúÿÿÿÿ8É®ÈüÁ1
+c
+java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8É®ÈüÁ1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ä„Úşÿÿÿÿ8É®ÈüÁ1

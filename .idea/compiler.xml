@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="2048" />
+    <option name="BUILD_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Xmx2048m" />
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="base-annotation" />
-        <module name="base-database-demo" />
-        <module name="base-dev" />
-        <module name="base-log" />
         <module name="base-sort" />
+        <module name="base-database-demo" />
+        <module name="base-log" />
+        <module name="base-dev" />
+        <module name="geip-rest-client" />
+        <module name="base-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="base" target="1.5" />
-      <module name="base-annotation" target="6" />
       <module name="base-database" target="1.5" />
       <module name="base-database-boot" target="1.8" />
-      <module name="base-database-demo" target="1.8" />
-      <module name="base-dev" target="1.8" />
-      <module name="base-log" target="1.5" />
-      <module name="base-sort" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

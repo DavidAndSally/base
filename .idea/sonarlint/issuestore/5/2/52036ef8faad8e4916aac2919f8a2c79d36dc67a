@@ -1,0 +1,39 @@
+
+Z
+java:S2589‡"7Remove this expression which always evaluates to "true"(¹äõ«ÿÿÿÿÿ8ÿÅéóû1
+\
+java:S4719 ":Replace Charset.forName() call with StandardCharsets.UTF_8(„£¤£øÿÿÿÿ8Æéóû1
+V
+java:S1874+"9Remove this use of "DefaultHttpClient"; it is deprecated.(ÉÈï­8‚Æéóû1
+[
+java:S1874;"9Remove this use of "DefaultHttpClient"; it is deprecated.(……’üÿÿÿÿ8ƒÆéóû1
+[
+java:S1874["9Remove this use of "DefaultHttpClient"; it is deprecated.(……’üÿÿÿÿ8…Æéóû1
+[
+java:S1874y"9Remove this use of "DefaultHttpClient"; it is deprecated.(……’üÿÿÿÿ8‰Æéóû1
+\
+java:S1874‰"9Remove this use of "DefaultHttpClient"; it is deprecated.(……’üÿÿÿÿ8ŠÆéóû1
+\
+java:S1874–"9Remove this use of "DefaultHttpClient"; it is deprecated.(ÛËÃşÿÿÿÿ8‹Æéóû1
+\
+java:S1874¦"9Remove this use of "DefaultHttpClient"; it is deprecated.(·ÎŞúÿÿÿÿ8Æéóû1
+W
+java:S1874¨"9Remove this use of "DefaultHttpClient"; it is deprecated.(ÁÊîğ8Æéóû1
+h
+java:S2147µ"ECombine this catch with the one at line 179, which has the same body.(üû’äúÿÿÿÿ8Æéóû1
+\
+java:S1874­"9Remove this use of "DefaultHttpClient"; it is deprecated.(ğ—˜ûÿÿÿÿ8Æéóû1
+\
+java:S1874Å"9Remove this use of "DefaultHttpClient"; it is deprecated.(ó—Øùÿÿÿÿ8Æéóû1
+n
+java:S1301à"KReplace this "switch" statement by "if" statements to increase readability.(Ñƒ¨áúÿÿÿÿ8•Æéóû1
+F	java:S108…")Either remove or fill this block of code.(ï­£Ä8˜Æéóû1
+F	java:S108Š")Either remove or fill this block of code.(ï­£Ä8˜Æéóû1
+M
+java:S2093ÿ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8˜Æéóû1
+h
+java:S1128"KRemove this unused import 'com.glodon.cloudt.rest.client.data.LicenseInfo'.(é Å8šÆéóû1
+i
+java:S1128"LRemove this unused import 'com.glodon.cloudt.rest.client.utils.CryptoUtils'.(Ãı¶¼8šÆéóû1
+M
+java:S1128"0Remove this unused import 'java.net.URLEncoder'.(ê¢ºÆ8šÆéóû1

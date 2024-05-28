@@ -1,0 +1,11 @@
+
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ŒÚÎ£ùÿÿÿÿ8”ù»Ðƒ/
+isquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(Ü—Äÿ8ˆ Œì².
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öÉœf8Ñþ¶Ø­.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦¥€·ÿÿÿÿÿ8Úá¶Ø­.
+bsquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8©å²•–.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ëªƒ8Ôž†ñ°.
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(®¯ïôûÿÿÿÿ8ˆ Œì².
+`squid:UselessImportCheck"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8©å²•–.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ËÞœì8”ù»Ðƒ/

@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ÂÂĞùÿÿÿÿ8¼ôÄüÁ1
+G	java:S106"+Replace this use of System.out by a logger.(ö˜Ï8¼ôÄüÁ1
+@
+java:S2129 "Remove this "Long" constructor(½ÂÃÄıÿÿÿÿ8¼ôÄüÁ1
+L	java:S106""+Replace this use of System.out by a logger.(Çµß§úÿÿÿÿ8¼ôÄüÁ1
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8¼ôÄüÁ1

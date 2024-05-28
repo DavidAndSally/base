@@ -1,0 +1,13 @@
+
+Ssquid:S2209+"5Change this instance-reference to a static reference.(ãô·¦8æÉ§‚ç.
+Psquid:S2440*"-Remove this instantiation of "SimpleFactory".(ûå‹èıÿÿÿÿ8‘‰­‚ç.
+]squid:S1118":Add a private constructor to hide the implicit public one.(şşÉøÿÿÿÿ8ö¦Şâ.
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ùÙ‘úÿÿÿÿ8ö¦Şâ.
+hsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(¾±P8›ì§‚ç.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌÿŒŸşÿÿÿÿ8ö¦Şâ.
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(úˆÁ8ö¦Şâ.
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ùÙ‘úÿÿÿÿ8ö¦Şâ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºã¤ò8ö¦Şâ.
+isquid:S2259-"FA "NullPointerException" could be thrown; "product1" is nullable here.(¶Áùşûÿÿÿÿ8Û™¨‚ç.

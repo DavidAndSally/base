@@ -1,0 +1,13 @@
+
+c
+java:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ì“ÈüÁ1
+c
+java:S2142#"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ì“ÈüÁ1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ì“ÈüÁ1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¾§½8Ì“ÈüÁ1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷‰Šüÿÿÿÿ8Ì“ÈüÁ1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(¹è’‡8Ì“ÈüÁ1
+D
+java:S21891""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ì“ÈüÁ1

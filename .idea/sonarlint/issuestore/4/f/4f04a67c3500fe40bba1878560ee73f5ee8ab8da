@@ -1,0 +1,13 @@
+
+‰"squid:ClassVariableVisibilityCheck"TMake elements a static final constant or non-public and provide accessors if needed.(Æ†©ê8õôıÅ×.
+¤squid:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïñş‘øÿÿÿÿ8Ø‰Æ×.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”òÎ‘ûÿÿÿÿ8š®µØ.
+¤squid:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ8·¤‡Æ×.
+Jsquid:S11727",Remove this unused method parameter "index".(¦ºé•8­àöÅ×.
+}squid:S1149M"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(†Ìû¼8àâİ´Ø.
+Dsquid:S1172;"&Remove these unused method parameters.(¿ªì¦8·¤‡Æ×.
+isquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(†í³½8àâİ´Ø.
+Wsquid:S34008"9Remove this method and declare a constant for this value.(”·³›8­àöÅ×.
+Wsquid:S3400@"9Remove this method and declare a constant for this value.(”·³›8·¤‡Æ×.
+Wsquid:S3400<"9Remove this method and declare a constant for this value.(”·³›8·¤‡Æ×.
+Jsquid:S1172?",Remove this unused method parameter "index".(û­½«8·¤‡Æ×.

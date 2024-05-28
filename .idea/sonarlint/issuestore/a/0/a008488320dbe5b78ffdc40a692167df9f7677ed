@@ -1,0 +1,23 @@
+
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+bsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(†€éˆ
+bsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(†€éˆ
+Isquid:S1135W"2Complete the task associated to this TODO comment.(ÉÚõÎ
+„ squid:ForLoopCounterChangedCheck%"XRefactor the code in order to not assign to this loop counter from within the loop body.(õÛ¿û
+bsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(†€éˆ
+gsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ÔóíÏûÿÿÿÿ
+Isquid:S11350"2Complete the task associated to this TODO comment.(ÉÚõÎ
+gsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(°ïµúÿÿÿÿ
+Isquid:S11353"2Complete the task associated to this TODO comment.(ÉÚõÎ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¨ñµ
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(è§þÿÿÿÿ
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Isquid:S1135Z"2Complete the task associated to this TODO comment.(ÉÚõÎ
+bsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(†€éˆ
+?squid:S1481"(Remove this unused "map" local variable.(Ö¨ñµ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ì÷ê§

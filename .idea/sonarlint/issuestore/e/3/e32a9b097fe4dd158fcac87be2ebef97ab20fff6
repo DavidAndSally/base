@@ -1,0 +1,24 @@
+
+{
+java:S1192&"YDefine a constant instead of duplicating this literal "æŠ½è±¡å·¥å‚æ¨¡å¼æµ‹è¯•" 4 times.(•©îııÿÿÿÿ8šÑéóû1
+]	java:S125"<This block of commented-out lines of code should be removed.(Òş±Ëıÿÿÿÿ8åÑéóû1
+X	java:S125"<This block of commented-out lines of code should be removed.(ùùù8åÑéóû1
+W	java:S125"<This block of commented-out lines of code should be removed.(Ñİó28åÑéóû1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8æÑéóû1
+M	java:S106’"+Replace this use of System.out by a logger.(Ğ©áÊüÿÿÿÿ8”Òéóû1
+M	java:S106—"+Replace this use of System.out by a logger.(¿ŞŠÖøÿÿÿÿ8•Òéóû1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.( ”øÓøÿÿÿÿ8–Òéóû1
+H	java:S106¤"+Replace this use of System.out by a logger.(äÙ’¦8–Òéóû1
+X
+java:S1118©":Add a private constructor to hide the implicit public one.(ƒø‘á8—Òéóû1
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(òÒ¬ò8—Òéóû1
+X	java:S125­"<This block of commented-out lines of code should be removed.(±ĞÂ"8—Òéóû1
+M	java:S106º"+Replace this use of System.out by a logger.(ë£ŸÄøÿÿÿÿ8˜Òéóû1
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(ÂÂµÚ8™Òéóû1
+M	java:S106Í"+Replace this use of System.out by a logger.(ë£ŸÄøÿÿÿÿ8™Òéóû1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8™Òéóû1
+N
+java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8šÒéóû1
+P
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8šÒéóû1

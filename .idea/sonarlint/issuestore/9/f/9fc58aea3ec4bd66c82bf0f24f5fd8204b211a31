@@ -1,0 +1,10 @@
+
+^squid:S10751"ARefactor your code to get this URI from a customizable parameter.(“¾¼>8 ˜ØşÜ.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã•ŒÎúÿÿÿÿ8 ˜ØşÜ.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ä§ ÿÿÿÿÿ8 ˜ØşÜ.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8 ˜ØşÜ.
+Fsquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³äó›ï-
+Fsquid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬—œï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾çéŸ8 ˜ØşÜ.
+wsquid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬øì8 ˜ØşÜ.
+|squid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(…û´şÿÿÿÿ8 ˜ØşÜ.

@@ -1,0 +1,25 @@
+
+V
+java:S1874"9Remove this use of "DefaultHttpClient"; it is deprecated.(››ó“8ÅÀéóû1
+[
+java:S1874"9Remove this use of "DefaultHttpClient"; it is deprecated.(ŸäåÖıÿÿÿÿ8ÆÀéóû1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£†Û´úÿÿÿÿ8ÇÀéóû1
+
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“áìò8ÇÀéóû1
+b
+java:S4830"@Enable server certificate validation on this SSL/TLS connection.(£†Û´úÿÿÿÿ8ÈÀéóû1
+]
+java:S4830!"@Enable server certificate validation on this SSL/TLS connection.(“áìò8ÉÀéóû1
+U
+java:S1874+"8Remove this use of "SSLSocketFactory"; it is deprecated.(€õáª8ÉÀéóû1
+U
+java:S1874+"8Remove this use of "SSLSocketFactory"; it is deprecated.(€õáª8ÊÀéóû1
+U
+java:S1874+"8Remove this use of "SSLSocketFactory"; it is deprecated.(€õáª8ÊÀéóû1
+\
+java:S1874,"?Remove this use of "ClientConnectionManager"; it is deprecated.(ÅéÌ8ËÀéóû1
+X
+java:S1874-"6Remove this use of "SchemeRegistry"; it is deprecated.(ÂĞéÓøÿÿÿÿ8ËÀéóû1
+J
+java:S1874.".Remove this use of "Scheme"; it is deprecated.(­Ñ¹38ËÀéóû1

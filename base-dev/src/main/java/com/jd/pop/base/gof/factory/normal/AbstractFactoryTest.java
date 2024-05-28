@@ -1,5 +1,7 @@
 package com.jd.pop.base.gof.factory.normal;
 
+import com.jd.pop.base.gof.factory.abstrac.ReadXML1;
+
 public class AbstractFactoryTest {
     public static void main(String[] args) {
         try {

@@ -1,0 +1,77 @@
+
+dsquid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(àÆºæüÿÿÿÿ
+dsquid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(¿¤ªêøÿÿÿÿ
+@squid:S1148Ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+asquid:CallToDeprecatedMethod…"1Remove this use of "setStrike"; it is deprecated.(…¸ßŠ8²â±•–.
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(©ÂäÕüÿÿÿÿ
+[squid:S1155Ë">Use isEmpty() to check whether the collection is empty or not.(ĞÜÏŸşÿÿÿÿ
+psquid:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öê x
+asquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(Éìñ
+Tsquid:S2589Ü"7Remove this expression which always evaluates to "true"(½¼œÈúÿÿÿÿ
+4squid:S1643„"Use a StringBuilder instead.(áÓìŠ
+osquid:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Î‚·ùüÿÿÿÿ
+wsquid:S1149²"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+3squid:S3626Ø"Remove this redundant jump.(ÉŠ©ƒ
+hsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(Áˆ§Úşÿÿÿÿ
+jsquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¦…Î
+wsquid:S1149²"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+[squid:S1155º">Use isEmpty() to check whether the collection is empty or not.(Á°Ó§øÿÿÿÿ
+`squid:CallToDeprecatedMethod…"0Remove this use of "isStrike"; it is deprecated.(…¸ßŠ8²â±•–.
+osquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(§ÔÆıüÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheck«"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÑÇÒşÿÿÿÿÿ
+Gsquid:S1066¯"/Merge this if statement with the enclosing one.(Û®†¬
+osquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(“³úÂÿÿÿÿÿ
+Rsquid:S1118":Add a private constructor to hide the implicit public one.(›Ñ”
+Fsquid:S1940Ã")Use the opposite operator ("<=") instead.(á“éøúÿÿÿÿ
+Osquid:S2589Ù"7Remove this expression which always evaluates to "true"(ó´˜À
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(å°ªãşÿÿÿÿ
+Ysquid:HiddenFieldCheckË"6Rename "is" which hides the field declared at line 58.(çÌÔ˜
+3squid:S3626å"Remove this redundant jump.(ÉŠ©ƒ
+^squid:S00112Â"FDefine and throw a dedicated exception instead of using a generic one.(¢ÜÊ
+ksquid:S3776ª"SRefactor this method to reduce its Cognitive Complexity from 172 to the 15 allowed.(øôÕ‰
+^squid:S3027Ş"GPut single-quotes around '\n' to use the faster "indexOf(char)" method.(Ô´©*
+[squid:S1155ÿ">Use isEmpty() to check whether the collection is empty or not.(îÀŒ ÿÿÿÿÿ
+gsquid:S1450;"QRemove the "os" field and declare it as a local variable in the relevant methods.(ó˜"
+^squid:S3027í"GPut single-quotes around '\n' to use the faster "indexOf(char)" method.(ÎÉ¶f
+osquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(íÙÒĞøÿÿÿÿ
+^squid:S3027Ó"FPut single-quotes around '$' to use the faster "indexOf(char)" method.(Èğó¥
+u
+squid:S135Ï"YReduce the total number of break and continue statements in this loop to use at most one.(Ÿ˜È ıÿÿÿÿ
+esquid:S3457"AFormat specifiers should be used instead of string concatenation.(šæ²Üüÿÿÿÿ8Â¶ª¢ú-
+^squid:S3027Ô"FPut single-quotes around '}' to use the faster "indexOf(char)" method.(”œºè
+N
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ïö´
+Dsquid:S1172t"-Remove this unused method parameter "params".(ÔùÚ²
+]squid:S2259Ç"EA "NullPointerException" could be thrown; "tempRun" is nullable here.(ÈÜø¹
+Lsquid:S1066"/Merge this if statement with the enclosing one.(íØ¬óûÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheckı"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(Ñüœ‘
+dsquid:S3027Ö"GPut single-quotes around '\b' to use the faster "indexOf(char)" method.(§â™”øÿÿÿÿ
+È%squid:RedundantThrowsDeclarationCheckı"•Remove the declaration of thrown exception 'org.apache.poi.openxml4j.exceptions.InvalidFormatException' which is a subclass of 'java.lang.Exception'.(Ñüœ‘
+3squid:S3626Û"Remove this redundant jump.(ÉŠ©ƒ
+3squid:S3626ß"Remove this redundant jump.(ÉŠ©ƒ
+3squid:S3626ã"Remove this redundant jump.(ÉŠ©ƒ
+bsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ûÁº
+^squid:S1126€"AReplace this if-then-else statement by a single return statement.(¦‹¾øüÿÿÿÿ
+Fsquid:S1940È")Use the opposite operator ("<=") instead.(˜ãÈÒøÿÿÿÿ
+|squid:S1488š"_Immediately return this expression instead of assigning it to the temporary variable "matcher".( æñŸùÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckt"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÔùÚ²
+Lsquid:S1066½"/Merge this if statement with the enclosing one.(¾Öôäøÿÿÿÿ
+hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(¤—î¾ÿÿÿÿÿ
+@squid:S1148è"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+qsquid:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ìÎÆ
+[squid:S2629"7Use the built-in formatting to construct this argument.(šæ²Üüÿÿÿÿ8Â¶ª¢ú-
+csquid:S1192ş"FDefine a constant instead of duplicating this literal "total" 3 times.(ŸËùúùÿÿÿÿ
+dsquid:S3027¬"GPut single-quotes around '\n' to use the faster "indexOf(char)" method.(Û›ô”ÿÿÿÿÿ
+jsquid:S1871Ü"MThis branch's code block is the same as the block for the branch on line 213.(½¼œÈúÿÿÿÿ
+csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(×Õ¤”
+hsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(şë¬Ïûÿÿÿÿ
+Isquid:S1172ü",Remove this unused method parameter "index".(¦ÎÅêúÿÿÿÿ
+bsquid:S2259°"EA "NullPointerException" could be thrown; "tempRun" is nullable here.(»õ¾¥ıÿÿÿÿ
+^squid:S00112t"FDefine and throw a dedicated exception instead of using a generic one.(ÔùÚ²
+rsquid:S1488Ë"ZImmediately return this expression instead of assigning it to the temporary variable "is".(çÌÔ˜
+^squid:S00112Ö"FDefine and throw a dedicated exception instead of using a generic one.(ÄÍÔB
+dsquid:S00112é"FDefine and throw a dedicated exception instead of using a generic one.(àÆºæüÿÿÿÿ
+Fsquid:S1940ö")Use the opposite operator ("<=") instead.(á“éøúÿÿÿÿ
+bsquid:S2259©"EA "NullPointerException" could be thrown; "tempRun" is nullable here.(Äß†£ùÿÿÿÿ
+dsquid:S00112«"FDefine and throw a dedicated exception instead of using a generic one.(ÑÇÒşÿÿÿÿÿ
+vsquid:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(à©—Îøÿÿÿÿ

@@ -1,0 +1,11 @@
+
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ü®àß8„Áâ ú-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(îâÏ£ûÿÿÿÿ8·¥ò—ú-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÏùÜ8·¥ò—ú-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(òÖçØ8·¥ò—ú-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ªŠÕŠûÿÿÿÿ8·¥ò—ú-
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ“ø—ú-

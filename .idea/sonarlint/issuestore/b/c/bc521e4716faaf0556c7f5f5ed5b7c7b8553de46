@@ -1,0 +1,8 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦êŒ8½ôÄüÁ1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦êŒ8½ôÄüÁ1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(Ì²œ§ıÿÿÿÿ8½ôÄüÁ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ªÔ˜êúÿÿÿÿ8½ôÄüÁ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×±÷´ùÿÿÿÿ8½ôÄüÁ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Á‹¦ü8½ôÄüÁ1
