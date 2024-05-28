@@ -14,10 +14,10 @@ import org.apache.http.entity.ContentType;
 public class RestClientTest3 {
 
     public static void main(String[] args) throws Throwable {
-            new RestClientTest3().testLic1();
+        new RestClientTest3().testLic1();
     }
-) throws InvalidUriException {
-        public void testLic(
+
+    public void testLic() {
         try {
             String url = "http://127.0.0.1:9539/sync-api/v3/service/public";
             // 创建客户端实例
@@ -31,30 +31,7 @@ public class RestClientTest3 {
             serviceClient.authenticate(restAuthInfo);
             LicenseInfo licenseInfo = serviceClient.getLicenseInfo();
             // 发送请求
-			RestResponseInfo restResponseInfo = serviceClient.post(url,
-                    "{" +
-					"	\"trdTenantId\": \"test\"," +
-					"	\"source\": \"test\"," +
-					"	\"adapterType\": \"BASE_ADAPTER\"," +
-					"	\"data\": {" +
-					"		\"orgs\": [" +
-					"			{" +
-					"				\"id\": \"1\"," +
-					"				\"name\": \"组织1\"," +
-					"				\"shortName\": \"组织1\"," +
-					"				\"parentId\": \"0\"," +
-					"				\"fullId\": \"1\"," +
-					"				\"type\": \"company\"," +
-					"				\"code\": \"company\"," +
-					"				\"sort\": 1," +
-					"				\"operation\": \"UPDATE\"" +
-					"			}" +
-					"		]," +
-					"		\"type\": \"ORG\"," +
-					"		\"rootId\": \"1\"" +
-					"	}" +
-					"}"
-                    , ContentType.APPLICATION_JSON.getMimeType());
+            RestResponseInfo restResponseInfo = serviceClient.post(url, "{" + "	\"trdTenantId\": \"test\"," + "	\"source\": \"test\"," + "	\"adapterType\": \"BASE_ADAPTER\"," + "	\"data\": {" + "		\"orgs\": [" + "			{" + "				\"id\": \"1\"," + "				\"name\": \"组织1\"," + "				\"shortName\": \"组织1\"," + "				\"parentId\": \"0\"," + "				\"fullId\": \"1\"," + "				\"type\": \"company\"," + "				\"code\": \"company\"," + "				\"sort\": 1," + "				\"operation\": \"UPDATE\"" + "			}" + "		]," + "		\"type\": \"ORG\"," + "		\"rootId\": \"1\"" + "	}" + "}", ContentType.APPLICATION_JSON.getMimeType());
             System.out.println(restResponseInfo.getStatus());
             // 处理请求结果
             if (restResponseInfo.isSuccess()) {
@@ -68,7 +45,7 @@ public class RestClientTest3 {
             e.printStackTrace();
             // } catch (InvalidUriException e) {
             // e.printStackTrace();
-        } catch (NoAuthenticateException e) {
+        } catch (NoAuthenticateException | InvalidUriException e) {
             e.printStackTrace();
         }
     }
@@ -88,11 +65,7 @@ public class RestClientTest3 {
             serviceClient.authenticate(restAuthInfo);
             LicenseInfo licenseInfo = serviceClient.getLicenseInfo();
             // 发送请求
-            RestResponseInfo restResponseInfo = serviceClient.post(url, "{" +
-                    "\"trdTenantId\": 6526030152689791522," +
-                    "\"source\": \"external.hg\"," +
-                    "\"siteDomain\": \"\""+
-                    "}", ContentType.APPLICATION_JSON.getMimeType());
+            RestResponseInfo restResponseInfo = serviceClient.post(url, "{" + "\"trdTenantId\": 6526030152689791522," + "\"source\": \"external.hg\"," + "\"siteDomain\": \"\"" + "}", ContentType.APPLICATION_JSON.getMimeType());
             System.out.println(restResponseInfo.getStatus());
             // 处理请求结果
             if (restResponseInfo.isSuccess()) {
