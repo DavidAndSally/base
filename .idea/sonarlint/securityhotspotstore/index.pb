@@ -31,18 +31,10 @@ Cbase-dev/src/main/java/com/jd/pop/base/thread/CommodityJimDbPO.java,0\9\094c47
 Vbase-database-demo/src/main/java/com/example/base/basedatabasedemo/JdbcController.java,9\e\9eaf345ab872830dc56ce050694cdde81cc39b8c
 ì
 cbase-database-demo/src/main/java/com/example/base/basedatabasedemo/BaseDatabaseDemoApplication.java,0\2\02b498d625eb9dfa509667028687c1b74887ce6f
-
-Obase-annotation/src/main/java/com/jd/pop/base/annotation/getter/GetterTest.java,e\1\e1087b268078e9267dab80d1790f3eab2861414b
-à
-Xbase-annotation/src/main/java/com/jd/pop/base/annotation/getter/GetterTestProcessor.java,7\b\7b0057fc405a71a9e6e7ff7941d08a6c878937cf
 G
 base-annotation/pom.xml,7\c\7c972155c248d909fc36c9f7546742239e21c5e1
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-ã
-[base-annotation/src/main/java/com/jd/pop/base/annotation/generatedClass/GeneratedClass.java,c\5\c58f3230b397a1698600a0534c5002a38d659229
-î
-dbase-annotation/src/main/java/com/jd/pop/base/annotation/generatedClass/GeneratedClassProcessor.java,b\1\b1bc744dfebd0a3731cf3609204137e164697d49
 }
 Mbase-annotation/src/main/java/com/jd/pop/base/annotation/apptest/AppTest.java,4\5\45231d94c16eab64e08696094cc76be49907808d
 ú
@@ -158,8 +150,6 @@ G.idea/sonarlint/issuestore/4/c/4c515380c905bbca4aeacdd364c9e8dc21622601,0\a\0a
 Q.idea/sonarlint/securityhotspotstore/8/4/8452f68c00d150c8e91e19cb00d0b36338d287f5,8\8\881830ea755a79637d74dbcdd95b015aa5b01339
 w
 G.idea/sonarlint/issuestore/4/f/4fa43c5397ee071ab4f0a801ea07fdb42b58b02d,c\e\ce11cbc7c4499dc72d2d8fff9c816bc4a6ebd2b4
-w
-G.idea/sonarlint/issuestore/4/e/4e67f85912da03213889023b3f30528a52a29682,6\7\677e7f088bef561fca410feffdf5ea8040676148
 Å
 Q.idea/sonarlint/securityhotspotstore/0/9/094c478e67ef208bec65ef2e98885c5b025705bc,c\f\cfd0515d29684690dc13613648e951fedc1dce41
 Å

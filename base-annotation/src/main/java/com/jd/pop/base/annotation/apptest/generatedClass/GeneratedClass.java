@@ -6,11 +6,11 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author wanjiadong
+ * @author qiw-a
  * @description
  * @date Create in 16:44 2018/12/20
  */
 @Target({ElementType.FIELD, ElementType.TYPE, ElementType.METHOD})
-@Retention(RetentionPolicy.CLASS)
+@Retention(RetentionPolicy.SOURCE)
 public @interface GeneratedClass {
 }

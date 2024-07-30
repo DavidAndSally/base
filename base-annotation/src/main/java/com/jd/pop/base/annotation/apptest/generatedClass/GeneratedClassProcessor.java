@@ -13,7 +13,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 /**
- * @author wanjiadong
+ * @author qiw-a
  * @description
  * @date Create in 16:49 2018/12/20
  */
@@ -24,10 +24,10 @@ public class GeneratedClassProcessor extends AbstractProcessor {
     public boolean process(Set<? extends TypeElement> annotations, RoundEnvironment roundEnv) {
         //创建动态代码，实际上就是创建一个String, 写入到文件里
         //然后文件会被解释为.class文件
-
+        System.out.println("你运行了没哟");
         StringBuilder builder = new StringBuilder()
-                .append("package com.wanjiadong;\n\n")
-                .append("public class WanjiadongClass {\n\n")
+                .append("package com.qw;\n\n")
+                .append("public class QwClass {\n\n")
                 .append("\tpublic String getMessage() {\n")
                 .append("\t\treturn \"");
 
@@ -44,7 +44,7 @@ public class GeneratedClassProcessor extends AbstractProcessor {
         //将String写入并生成.class文件
         try {
             JavaFileObject source = processingEnv.getFiler().createSourceFile(
-                    "com.wanjiadong.WanjiadongClass");
+                    "com.qw.QwClass");
 
             Writer writer = source.openWriter();
             writer.write(builder.toString());

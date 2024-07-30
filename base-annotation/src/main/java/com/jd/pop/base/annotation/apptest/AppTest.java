@@ -1,25 +1,25 @@
 package com.jd.pop.base.annotation.apptest;
 
 import com.jd.pop.base.annotation.apptest.generatedClass.GeneratedClass;
-import com.jd.pop.base.annotation.apptest.getter.GetterTest;
+//import com.jd.pop.base.annotation.apptest.getter.GetterTest;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 
 /**
- * @author wanjiadong
+ * @author qiw-a
  * @description
  * @date Create in 15:34 2018/12/19
  */
-@GetterTest
-@GeneratedClass
+//@GetterTest
+//@GeneratedClass
 public class AppTest {
 
-    @GeneratedClass
+//    @GeneratedClass
     private String a;
 
-    @GeneratedClass
+//    @GeneratedClass
     private String b;
 
     public AppTest(String a) {
@@ -33,7 +33,7 @@ public class AppTest {
         System.out.println(a.getClass());
 
         try {
-            Class clazz = Class.forName("com.wanjiadong.WanjiadongClass");
+            Class clazz = Class.forName("com.qw.QwClass");
             Method method = clazz.getDeclaredMethod("getMessage");
             Object result = method.invoke(clazz.newInstance());
             System.out.println("result="+result);

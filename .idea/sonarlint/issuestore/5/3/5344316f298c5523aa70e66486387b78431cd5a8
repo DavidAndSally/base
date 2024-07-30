@@ -1,7 +1,7 @@
 
-f	java:S106"+Replace this use of System.out by a logger.(Ð¿Ü×J$6aabd65d-7924-4d86-a100-7a96d6b1df8c
-f	java:S106)"+Replace this use of System.out by a logger.(‹™ ¹J$92b5ced3-e2fb-451b-8807-61086f648754
+f	java:S106"+Replace this use of System.out by a logger.(Ð¿Ü×J$59a6d2a7-7676-4f88-95d3-5f3b170311c5
+f	java:S106)"+Replace this use of System.out by a logger.(‹™ ¹J$6a6af86d-1a45-4be9-9ebf-6008784b4d84
 q
-java:S1854-"6Remove this useless assignment to local variable "is".(Œ½’J$648a55ce-19a8-418e-9296-aad71396f86d
+java:S1854-"6Remove this useless assignment to local variable "is".(Œ½’J$d54e0a55-b972-493d-904d-581968bd72d5
 b
-java:S1481-"'Remove this unused "is" local variable.(Œ½’J$d43a100a-2116-4511-9ec5-c194ddb97a73
+java:S1481-"'Remove this unused "is" local variable.(Œ½’J$b04ad4af-b714-4d74-9b08-b3e4257ff3fc
